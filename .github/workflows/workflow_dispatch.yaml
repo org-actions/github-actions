@@ -1,6 +1,6 @@
 name: workflow-dispatch
 on:
-  workflow_diapatch:
+  workflow_dispatch:
     inputs:
       name: 
         description: 'set name'
