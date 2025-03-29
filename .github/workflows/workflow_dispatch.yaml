@@ -18,7 +18,7 @@ on:
         - prod
 
 jobs:
-  workflow-dispatch-jobs:
+  workflow-dispatch-job:
     reuns-on: ubuntu-latest
     steps:
     - name: step1
